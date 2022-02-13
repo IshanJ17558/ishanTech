@@ -19,6 +19,12 @@
 }
 
 @media screen and (max-width:768px) {
+    body {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        overflow-x: hidden;
+    }
     .headerSection {
         padding-top: 4vh;
         min-height: 80vh;
