@@ -1,0 +1,113 @@
+@media screen and (max-width:1024px) {
+    .logoImgLanguages {
+        width: 40vw;
+    }
+}
+
+@media screen and (max-width:900x) {
+    .contactUsIcons {
+        font-size: 7vw;
+        margin-top: 1vh;
+    }
+    .contactUsIcon {
+        margin: auto;
+        width: 9vw;
+        height: 9vw;
+        background-color: #222831;
+        border-radius: 50%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .headerSection {
+        padding-top: 4vh;
+        min-height: 80vh;
+        text-align: center;
+    }
+    .headerPart1 {
+        order: 2;
+    }
+    .headerPart2 {
+        order: 1;
+    }
+    .headerSection h1 {
+        margin: auto;
+        font-family: 'Redressed', cursive;
+        font-size: 2rem;
+        padding-left: 0;
+    }
+    .logoImg {
+        padding-left: 0;
+    }
+    .logoImgLanguages {
+        position: relative;
+        margin: auto;
+        margin-top: 10vh;
+        width: 50vw;
+    }
+    .headerSection h3 {
+        font-family: 'PT Serif', serif;
+        padding-left: 0;
+        font-size: 1rem;
+        padding-bottom: 10vh;
+    }
+    .aboutSection {
+        margin: auto;
+        text-align: center;
+        max-width: 100%;
+    }
+    .aboutSection h1 {
+        font-size: 1.5rem;
+        font-weight: bold;
+        padding-bottom: 5vh;
+    }
+    .aboutIcons {
+        width: 24vw;
+        padding-bottom: 5vh;
+    }
+    .aboutSection h2 {
+        margin: auto;
+        font-size: 2.4rem;
+        max-width: 80%;
+    }
+    .aboutSection p {
+        margin: auto;
+        font-family: 'PT Serif', serif;
+        width: 70%;
+        font-weight: bold;
+        padding-bottom: 5vh;
+    }
+    hr {
+        padding-top: 5vh;
+    }
+    .ourProjects {
+        margin: auto;
+        margin-top: 10vh;
+        max-width: 100%;
+        text-align: center;
+    }
+    .ourProjects h1 {
+        font-family: 'PT Serif', serif;
+        font-size: 3rem;
+        font-weight: bold;
+        padding-bottom: 5vh;
+    }
+    .ourProjectsImg {
+        width: 90vw;
+        padding-bottom: 5vh;
+    }
+    .visitUsBtn {
+        margin-bottom: 12vh;
+    }
+    .contactUsIcons {
+        font-size: 9vw;
+        margin-top: 1vh;
+    }
+    .contactUsIcon {
+        margin: auto;
+        width: 12vw;
+        height: 12vw;
+        background-color: #222831;
+        border-radius: 50%;
+    }
+}

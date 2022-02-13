@@ -1,0 +1,175 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+hr {
+    margin: auto;
+    color: #222831;
+    border-style: dotted;
+    max-width: 10vw;
+    border: 5px dotted;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 10vh;
+}
+
+.headerSection {
+    background: #00ADB5;
+    color: #EEEEEE;
+    padding-top: 8vh;
+    min-height: 80vh;
+}
+
+.headerPart1 {
+    order: 1;
+}
+
+.headerPart2 {
+    order: 2;
+}
+
+.logoImg {
+    padding-left: 10vw;
+}
+
+.logoImgLanguages {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    width: 30vw;
+}
+
+.headerSection h1 {
+    font-family: 'Redressed', cursive;
+    padding-left: 14vw;
+    font-size: 4rem;
+}
+
+.headerSection h3 {
+    font-family: 'PT Serif', serif;
+    padding-left: 14vw;
+    font-size: 1.5rem;
+    padding-bottom: 10vh;
+}
+
+.aboutSection {
+    margin: auto;
+    text-align: center;
+    max-width: 90%;
+}
+
+.aboutSection h1 {
+    padding-top: 5vh;
+    font-family: 'PT Serif', serif;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 10vh;
+}
+
+.aboutIcons {
+    width: 6vw;
+    padding-bottom: 5vh;
+}
+
+.aboutSection h2 {
+    font-family: 'Redressed', cursive;
+    font-weight: bold;
+}
+
+.aboutSection p {
+    margin: auto;
+    font-family: 'PT Serif', serif;
+    width: 70%;
+    font-weight: bold;
+}
+
+.ourProjects {
+    margin: auto;
+    margin-top: 10vh;
+    max-width: 90%;
+    text-align: center;
+}
+
+.ourProjects h1 {
+    font-family: 'PT Serif', serif;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 10vh;
+}
+
+.ourProjectsImg {
+    width: 40vw;
+    padding-bottom: 5vh;
+}
+
+.ourProjects h2,
+h3 {
+    font-family: 'Redressed', cursive;
+    font-weight: bold;
+}
+
+.ourProjects p {
+    margin: auto;
+    font-family: 'PT Serif', serif;
+    width: 70%;
+    font-weight: bold;
+    padding-bottom: 2vh;
+}
+
+.visitUsBtn {
+    margin-bottom: 5vh;
+}
+
+.hr2 {
+    padding-top: 5vh;
+}
+
+.contactUs {
+    text-align: center;
+    background: #00ADB5;
+    margin-top: 10vh;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    color: white;
+}
+
+.contactUs h1 {
+    font-family: 'PT Serif', serif;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 3vh;
+}
+
+.contactUs h2,
+h3 {
+    font-family: 'Redressed', cursive;
+    padding-top: 1vh;
+    padding-bottom: 5vh;
+}
+
+.contactUsIcons {
+    font-size: 2vw;
+    margin-top: 2vh;
+}
+
+.contactUsIcon {
+    margin: auto;
+    width: 4vw;
+    height: 4vw;
+    background-color: #222831;
+    border-radius: 50%;
+}
+
+.contactUs p {
+    display: block;
+    margin: auto;
+}
